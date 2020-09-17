@@ -1,0 +1,11 @@
+C:\Users\Monika\source\repos\Furmularz1\Furmularz1\bin\Debug\Furmularz1.exe.config
+C:\Users\Monika\source\repos\Furmularz1\Furmularz1\bin\Debug\Furmularz1.exe
+C:\Users\Monika\source\repos\Furmularz1\Furmularz1\bin\Debug\Furmularz1.pdb
+C:\Users\Monika\source\repos\Furmularz1\Furmularz1\obj\Debug\Furmularz1.csprojAssemblyReference.cache
+C:\Users\Monika\source\repos\Furmularz1\Furmularz1\obj\Debug\Furmularz1.Properties.Resources.resources
+C:\Users\Monika\source\repos\Furmularz1\Furmularz1\obj\Debug\Furmularz1.csproj.GenerateResource.cache
+C:\Users\Monika\source\repos\Furmularz1\Furmularz1\obj\Debug\Furmularz1.csproj.CoreCompileInputs.cache
+C:\Users\Monika\source\repos\Furmularz1\Furmularz1\obj\Debug\Furmularz1.exe
+C:\Users\Monika\source\repos\Furmularz1\Furmularz1\obj\Debug\Furmularz1.pdb
+C:\Users\Monika\source\repos\Furmularz1\Furmularz1\obj\Debug\Furmularz1.Form1.resources
+C:\Users\Monika\source\repos\Furmularz1\Furmularz1\obj\Debug\Furmularz1.JezykAngielski.resources
